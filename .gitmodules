@@ -1,0 +1,15 @@
+[submodule "Api_Gateway"]
+	path = Api_Gateway
+	url = https://github.com/Rajsatyammm/ApiGateway
+[submodule "Eureka_Server"]
+	path = Client_module
+	url = https://github.com/Rajsatyammm/EurekaServer
+[submodule "Kafka_Producer"]
+	path = Kafka_Producer
+	url = https://github.com/Rajsatyammm/KafkaProducer
+[submodule "Kafka_Consumer"]
+	path = Kafka_Consumer
+	url = https://github.com/Rajsatyammm/KafkaConsumer
+[submodule "Spring_Security"]
+	path = Spring_Security
+	url = https://github.com/Rajsatyammm/Spring_Security
