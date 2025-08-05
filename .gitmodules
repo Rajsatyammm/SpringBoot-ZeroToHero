@@ -1,15 +1,18 @@
-[submodule "Api_Gateway"]
-	path = Api_Gateway
+[submodule "ApiGateway"]
+	path = ApiGateway
 	url = https://github.com/Rajsatyammm/ApiGateway
-[submodule "Eureka_Server"]
-	path = Client_module
+[submodule "EurekaServer"]
+	path = EurekaServer
 	url = https://github.com/Rajsatyammm/EurekaServer
-[submodule "Kafka_Producer"]
-	path = Kafka_Producer
+[submodule "KafkaProducer"]
+	path = KafkaProducer
 	url = https://github.com/Rajsatyammm/KafkaProducer
-[submodule "Kafka_Consumer"]
-	path = Kafka_Consumer
+[submodule "KafkaConsumer"]
+	path = KafkaConsumer
 	url = https://github.com/Rajsatyammm/KafkaConsumer
-[submodule "Spring_Security"]
-	path = Spring_Security
-	url = https://github.com/Rajsatyammm/Spring_Security
+[submodule "SpringSecurity"]
+	path = SpringSecurity
+	url = https://github.com/Rajsatyammm/SpringSecurity
+[submodule "ZipkinServer"]
+	path = ZipkinServer
+	url = https://github.com/Rajsatyammm/ZipkinServer
